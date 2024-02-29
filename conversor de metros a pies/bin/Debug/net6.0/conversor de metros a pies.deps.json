@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "conversor de metros a pies/1.0.0": {
+        "runtime": {
+          "conversor de metros a pies.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "conversor de metros a pies/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
